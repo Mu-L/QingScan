@@ -7,9 +7,9 @@ QingScan 是一款聚合扫描器，本身不生产安全扫描功能，但会�
 
 - GitHub：https://github.com/78778443/QingScan
 - 码云地址：https://gitee.com/songboy/QingScan
-- 详细文档：http://wiki.qingscan.songboy.site
+- 详细文档：http://wiki.qingscan.site
 - 哔哩哔哩：https://space.bilibili.com/437273065
-- 官网地址：http://qingscan.songboy.site/
+- 官网地址：http://www.qingscan.site/
 
 
 ## 在线演示
