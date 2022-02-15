@@ -1,4 +1,4 @@
-# 渗透测试工程师培训：1800元
+# QingScan团队推出安全培训：1800元
 - 官网地址：http://www.qingscan.site/
 
 # QingScan
