@@ -1,6 +1,3 @@
-# QingScan团队推出安全培训：1800元
-- 官网地址：http://www.qingscan.site/
-
 # QingScan
 一个批量漏洞挖掘工具，黏合各种好用的扫描器。
 
@@ -38,8 +35,9 @@ QingScan尽最大能力保障各位安装的顺畅，但QingScan人力有限，�
 
 如果在安装的过程中遇到比较麻烦的问题，也可以联系我们的工程师远程协助帮你解决问题(需淘宝下单`6.88`元人民币),下单后主动添加群里`婷婷的橙子`为好友，并将向日葵的ID和验证码发给她。
 
-淘宝链接地址：https://item.taobao.com/item.htm?spm=a2126o.success.0.0.5e484831UkSn6H&id=666295567386&mt=
+- 淘宝链接地址：https://item.taobao.com/item.htm?spm=a2126o.success.0.0.5e484831UkSn6H&id=666295567386&mt=
 ![QingScan 远程协助安装二维码](https://user-images.githubusercontent.com/8509054/149115891-ef667823-393c-45cd-b5a7-b87c71ee3ba0.png)
+- QingScan团队推出安全培训：1800元  http://www.qingscan.site/
 
 
 
