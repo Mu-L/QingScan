@@ -37,7 +37,6 @@ QingScan尽最大能力保障各位安装的顺畅，但QingScan人力有限，�
 
 - 远程安装：https://item.taobao.com/item.htm?spm=a2126o.success.0.0.5e484831UkSn6H&id=666295567386&mt=
 ![QingScan 远程协助安装二维码](https://user-images.githubusercontent.com/8509054/149115891-ef667823-393c-45cd-b5a7-b87c71ee3ba0.png)
-- Web安全培训：QingScan 即将提供技能提升培训服务，首期价格1800元，详情可参考  http://www.qingscan.site/
 
 
 
